@@ -1,0 +1,8 @@
+- npm install -g castle-cli
+
+then you can edit decks with 
+- castle init my-deck --title "My Deck"
+- castle serve my-deck --open
+- castle get-deck <deck-id> my-deck
+
+all set.
